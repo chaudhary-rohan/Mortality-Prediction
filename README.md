@@ -59,8 +59,3 @@ Created neural network able to classify critical patients mortality in three gro
 * \> 1 month mortality: 0.81 AUROC, 0.57 accuracy
 
 ![](plots/Evaluation/3Curves_ENG.png)
-
-Medium Article : https://medium.com/@daniel.sola.fraire/predicting-patient-mortality-with-deep-learning-f9814bf192da
-Full Thesis: https://github.com/DanielSola/mimic-iii-project/blob/master/deep_learning_thesis.pdf
-
-README's and documentation written in Spanish. 
